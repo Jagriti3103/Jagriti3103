@@ -30,8 +30,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/just_j.ing"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="just_j.ing" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagriti3103&show_icons=true&locale=en&layout=compact" alt="jagriti3103" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagriti3103&show_icons=true&locale=en" alt="jagriti3103" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagriti3103&" alt="jagriti3103" /></p>
